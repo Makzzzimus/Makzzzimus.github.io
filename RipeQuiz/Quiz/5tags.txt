@@ -1,4 +1,4 @@
-Minecraft
-Game
-Майнкрафт
-Игра
+minecraft
+game
+майнкрафт
+игра
