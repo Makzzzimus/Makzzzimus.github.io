@@ -1,4 +1,2 @@
-Minecraft
-Game
-Майнкрафт
-Игра
+test
+тест
