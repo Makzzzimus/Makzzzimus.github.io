@@ -2,6 +2,3 @@ star wars
 film
 galaxy
 space
-звездные войны
-фильм
-галктика
